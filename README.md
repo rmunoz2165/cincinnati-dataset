@@ -26,6 +26,5 @@ You can view my Tableau Public repository for this [project](https://public.tabl
      * Average Labor Hrs per vehicle by Department
      * Total Cost of Preventive/Repair Work
      
-     
-     
+      <br/><br/>     
 - The [Pareto Analysis](https://help.tableau.com/current/pro/desktop/enus/pareto.htm#:~:text=Applies%20to%3A%20Tableau%20Desktop%2C%20Tableau,is%20represented%20by%20the%20line.)  <a href =  "url"><img src="https://github.com/rmunoz2165/cincinnati-dataset/blob/master/images/FleetPareto.png"  align="right" height="300" width="500"></a>chart can be used to show where 20% of the fleet vehicles are responsible for 80% of the cost. Good visualization features to explore would be a filter on Vehicle ID to see what part of the curve, above or below 20/80, a particular vehicle is located or add color to distinguish between Departments on the curve.
