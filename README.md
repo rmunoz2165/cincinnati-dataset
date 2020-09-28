@@ -9,7 +9,7 @@ The data is a compilation of the City of Cincinnati Fleet Preventive Maintenance
 
 I was looking for data that I could use to showcase my Tableau skills while using past experience in maintenance and reliability. The City of Cincinnati's data set was such a treasure to find as I was also able to connect with the Office of Performance and Data Analytics with questions that were very helpful. My main goal was to focus on determining mean-time-between-failures yet there were also plenty of other avenues to explore as discussed below.
 
-## Technical Aspects**
+## Technical Aspects
 <a href="url"><img src="https://github.com/rmunoz2165/cincinnati-dataset/blob/master/images/DownloadData.png" align="right" height="150" width="500" ></a>
 **1. Data Download**
 
@@ -22,7 +22,7 @@ You can view my Tableau Public repository for this [project](https://public.tabl
 
 **3. Dashboards overview:**
    - Top Departments by Fleet Total Cost <a href =  "url"><img src="https://github.com/rmunoz2165/cincinnati-dataset/blob/master/images/FleetDatasetTreemap.png"  align="right" height="300" width="500"></a>
-     - The Treemap is a relatively simple view that uses dimensions to define the structure of the treemap, and measures to define the size or colour of the  individual rectangles. For this visual, the top 8 Departments are shown in the treemap using sum of 'Total Cost' Feature for both size and color. Other helpful tags shown are ( using Year and Department dropdown filters ): 
-     - Average Total cost per vehicle by Department
-     - Average Labor Hrs per vehicle by Department
-     - Total Cost of Preventive/Repair Work
+     - The **Treemap** is a relatively simple view that uses dimensions to define the structure of the treemap, and measures to define the size or colour of the  individual rectangles. For this visual, the top 8 Departments are shown in the treemap using sum of 'Total Cost' Feature for both size and color. Other helpful tags shown are ( using Year and Department dropdown filters ): 
+     * Average Total cost per vehicle by Department
+     * Average Labor Hrs per vehicle by Department
+     * Total Cost of Preventive/Repair Work
