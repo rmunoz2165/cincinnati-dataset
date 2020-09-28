@@ -18,8 +18,9 @@ There you'll find a description of the data and a download of the [Data Dictiona
 
 2. Tableau users
 
-You can view my Tableau Public repository for this [project](https://public.tableau.com/profile/robert.d.munoz#!/vizhome/CincinnatiFleetServices/Main?publish=yes). I would be interested in your approach, visualizations and feedback. 
+You can view my Tableau Public repository for this [project](https://public.tableau.com/profile/robert.d.munoz#!/vizhome/CincinnatiFleetServices/Main?publish=yes). I would be interested in your approach, visualizations and feedback.
 
+<a href =  "url"><img src="https://github.com/rmunoz2165/cincinnati-dataset/blob/master/images/FleetDatasetTreemap.png"  align="right" height="300" width="500"></a>
 3. Dashboards overview:
    - Top Departments by Fleet Total Cost
      - The Treemap is a relatively simple view that uses dimensions to define the structure of the treemap, and measures to define the size or colour of the  individual rectangles. For this visual, the top 8 Departments are shown in the treemap using sum of 'Total Cost' Feature for both size and color. Other helpful tags shown are ( using Year and Department dropdown filters ):
