@@ -45,5 +45,5 @@ You can view my Tableau Public repository for this [project](https://public.tabl
 </br>
 </br>
 </br>
-</br>
+   
 - The [Sparkline](https://playfairdata.com/how-to-make-sparklines-in-tableau/) <a href =  "url"><img src="https://github.com/rmunoz2165/cincinnati-dataset/blob/master/images/FleetSparklines.png" align="right" height="300" width="500"></a>chart is meant to present trends and variations associated with some measurement, in a simple and condensed way.  In this visual, we see filtered the top 8 Departments listed by highest Total Cost. In  this example we are using a Table Calculation to display the last or latest measurment for Total Cost distinguished by the unique 'sun' shape. Hover will show a breakdown per Quarter.
