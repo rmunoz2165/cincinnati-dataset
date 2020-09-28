@@ -24,7 +24,8 @@ You can view my Tableau Public repository for this [project](https://public.tabl
 - The [Treemap](https://help.tableau.com/current/pro/desktop/en-gb/buildexamples_treemap.htm) is a relatively simple view that uses dimensions to define the structure of the treemap, and measures to define the size or colour of the  individual rectangles. For this visual, the top 8 Departments are shown in the treemap using sum of 'Total Cost' Feature for both size and color. Other helpful tags shown are ( using Year and Department dropdown filters ): 
      * Average Total cost per vehicle by Department
      * Average Labor Hrs per vehicle by Department
-     * Total Cost of Preventive/Repair Work
+     * Total Cost of Preventive/Repair Work  
      
-      <br/><br/>     
+     
+         
 - The [Pareto Analysis](https://help.tableau.com/current/pro/desktop/enus/pareto.htm#:~:text=Applies%20to%3A%20Tableau%20Desktop%2C%20Tableau,is%20represented%20by%20the%20line.)  <a href =  "url"><img src="https://github.com/rmunoz2165/cincinnati-dataset/blob/master/images/FleetPareto.png"  align="right" height="300" width="500"></a>chart can be used to show where 20% of the fleet vehicles are responsible for 80% of the cost. Good visualization features to explore would be a filter on Vehicle ID to see what part of the curve, above or below 20/80, a particular vehicle is located or add color to distinguish between Departments on the curve.
