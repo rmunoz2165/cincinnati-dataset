@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-This is a final capstone project for an on-line Data Analytics course taken at [General Assembly](https://generalassemb.ly/education/data-analytics/san-francisco). 
+This is a Tableau final capstone project for an on-line Data Analytics course taken at [General Assembly](https://generalassemb.ly/education/data-analytics/san-francisco). 
 The data is a compilation of the City of Cincinnati Fleet Preventive Maintenance and Repair Work Orders, updated daily, with over 270,000+ rows of unique work orders and 37 columns of features from 2008 to present.
 
 ## Motivation
@@ -16,3 +16,9 @@ Go to the City of Cincinnati Fleet Preventive Maintenance and Repair link [here]
 There you'll find a description of the data and a download of the [Data Dictionary](https://data.cincinnati-oh.gov/api/views/2a8x-bxjm/files/d5a81f3e-b274-44c7-8569-458883d0cc5f?download=true&filename=Fleet%20Preventative%20Maintenance%20&%20Repair%20Work%20Orders-%20Data%20Profile%20-%203b.Data%20Dictionary.pdf). The data set is also accessible via 'live' with OData. Click [here](https://support.socrata.com/hc/en-us/articles/115005364207) to obtain information on external source connection via Odata for the Cincinnati Fleet Dataset and [here](https://support.socrata.com/hc/en-us/articles/115011744048-Open-A-Socrata-Dataset-In-Tableau-Desktop) specifically for external connection using Tableau.
 
 <img src="https://github.com/rmunoz2165/cincinnati-dataset/blob/master/images/DownloadData.png">
+
+2. Tableau users
+
+You can view my Tableau Public repository for this [project](https://public.tableau.com/profile/robert.d.munoz#!/vizhome/CincinnatiFleetServices/Main?publish=yes). I would be interested in your approach, visualizations and feedback. 
+
+<img src="https://public.tableau.com/profile/robert.d.munoz#!/vizhome/CincinnatiFleetServices/Main?publish=yes">
