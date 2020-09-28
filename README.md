@@ -26,3 +26,5 @@ You can view my Tableau Public repository for this [project](https://public.tabl
      * Average Total cost per vehicle by Department
      * Average Labor Hrs per vehicle by Department
      * Total Cost of Preventive/Repair Work
+     
+     - The [Pareto Analysis](https://help.tableau.com/current/pro/desktop/enus/pareto.htm#:~:text=Applies%20to%3A%20Tableau%20Desktop%2C%20Tableau,is%20represented%20by%20the%20line.) chart 
