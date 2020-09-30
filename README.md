@@ -10,7 +10,7 @@ The data is a compilation of the City of Cincinnati Fleet Preventive Maintenance
 I was looking for data that I could use to showcase my Tableau skills while using past experience in maintenance and reliability. The City of Cincinnati's data set was such a treasure to find as I was also able to connect with the Office of Performance and Data Analytics with questions that were very helpful. My main goal was to focus on determining mean-time-between-failures yet there were also plenty of other avenues to explore as discussed below.
 
 ## Technical Aspects
-<a href="url" style="pointer-events: none;  cursor: default;"><img src="https://github.com/rmunoz2165/cincinnati-dataset/blob/master/images/DownloadData.png" align="right" height="150" width="500" ></a>
+<a href="url"><img src="https://github.com/rmunoz2165/cincinnati-dataset/blob/master/images/DownloadData.png" align="right" height="150" width="500" ></a>
 **1. Data Download**
 
 Go to the City of Cincinnati Fleet Preventive Maintenance and Repair link [here](https://data.cincinnati-oh.gov/Thriving-Neighborhoods/Fleet-Preventative-Maintenance-Repair-Work-Orders/2a8x-bxjm).
